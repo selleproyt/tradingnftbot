@@ -5,7 +5,7 @@ daily. It turns on once and then controls itself.
 Important while the script is running:
 1) There should be no other NFT Boxes on the wallet
 2) Chrome must be maximized to fill the entire window
-3) Do not close Chrome and Python (you can use paycharm)
+3) Do not close Chrome and Python (you can use pycharm)
 
    
 How to install the software. It consists of Python and js script. You must install chrome
