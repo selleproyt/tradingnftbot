@@ -1,4 +1,5 @@
-!!README на русском языке внутри архива
+!!README на русском языке в файле Instruction
+
 The bot works on the resale of Mysteryboxes. This bot allows you to earn up to $100
 daily. It turns on once and then controls itself.
 Important while the script is running:
