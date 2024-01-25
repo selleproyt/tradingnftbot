@@ -6,6 +6,8 @@ Important while the script is running:
 1) There should be no other NFT Boxes on the wallet
 2) Chrome must be maximized to fill the entire window
 3) Do not close Chrome and Python (you can use paycharm)
+
+   
 How to install the software. It consists of Python and js script. You must install chrome
 driver (google how). In the Python file, write the path to it on line 8. Next, open
 marketplace with any resale of boxes (any series of boxes) you set filters
